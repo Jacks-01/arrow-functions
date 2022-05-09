@@ -141,7 +141,7 @@ let message = (name) => {
 };
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-console.log(message('Allie'));
+// console.log(message('Allie'));
 
 
 let Student = function(name, age, hometown) {
